@@ -38,6 +38,9 @@ Design docs for full architecture and V1 schema live under `docs/`.
 npm install
 ```
 
+If install fails with `403 Forbidden` from `registry.npmjs.org`, this environment is blocking package downloads.  
+You must run with an npm registry/token that allows the required packages (`next`, `react`, `@supabase/supabase-js`, `vitest`).
+
 ### Run locally
 ```bash
 npm run dev
@@ -69,6 +72,14 @@ E2E_ORG_ID=11111111-1111-1111-1111-111111111111
 
 Run migrations/seeds in Supabase SQL editor (in order).
 
+### Required local Supabase migration/seed sequence
+1. `db/migrations/001_foundational_schema.sql`
+2. `db/migrations/002_auth_rls.sql`
+3. `db/seeds/001_vertical_slice_seed.sql`
+4. `db/seeds/002_test_users.sql`
+
+After applying SQL, set `.env.local` and then run tests.
+
 ## Automated Testing
 ### Service and integration tests
 ```bash
@@ -84,6 +95,8 @@ npm run dev
 ```bash
 npm run test:e2e
 ```
+
+> In this repository version, `test:e2e` runs the end-to-end flow assertions under `tests/e2e` using Vitest route-level orchestration.
 
 E2E coverage includes:
 - sign up / sign in / sign out

@@ -1,25 +1,35 @@
-# Implementation Status — Verification-First Phase
+# Implementation Status — Execution and Verification Phase
 
-## Completed in Code
+## What was executed in this environment
 
-- Replaced in-memory data paths with Supabase-backed repository operations for course draft tree, review cycle, publish pipeline, runtime reads, enrollment, attempts, progress, and analytics events.
-- Added authenticated route enforcement with bearer-token session verification and role checks (`admin`, `author`, `reviewer`, `learner`).
-- Added Supabase auth API wrappers for signup/signin/signout and a protected `/api/me` endpoint.
-- Added RLS hardening migration with organization + profile model and table policies to block cross-org/cross-user access.
-- Preserved existing vertical slice lifecycle (`draft -> review -> approved -> published -> runtime -> progress`).
-- Added automated test scaffolding:
-  - Vitest integration tests for publish/review services.
-  - Playwright E2E flow for auth + role-protected lifecycle + learner progress.
+1. `npm install`
+   - **Result:** failed.
+   - **Error:** `403 Forbidden` from `https://registry.npmjs.org` (package download denied by environment policy).
+2. `npm run typecheck`
+   - **Result:** failed.
+   - **Reason:** dependencies were not installed; TypeScript could not resolve `next`, `react`, `@supabase/supabase-js`, `vitest`, etc.
+3. `npm run test`
+   - **Result:** failed.
+   - **Reason:** `vitest` binary unavailable because install failed.
+4. `npm run test:e2e`
+   - **Result:** failed.
+   - **Reason:** `vitest` binary unavailable because install failed.
 
-## In Scope and Proven
+## Repository/config fixes completed
 
-- Service-level transitions for review and publish are covered by automated tests.
-- End-to-end API workflow is covered in Playwright (signup/signin, protected access, seed/review/approve/publish, runtime, progress, permission denial).
-- RLS and role boundaries are codified in SQL migration for Supabase execution.
+- Ensured `package.json` scripts align with available test setup (`test`, `test:e2e`).
+- Removed blocked Playwright package dependency path and aligned E2E script to repository-supported runner.
+- Added explicit README troubleshooting and required Supabase migration/seed sequence.
+- Preserved auth + role + draft/review/publish/runtime/progress route structure for verification once dependencies are installable.
 
-## Not Yet Production-Ready
+## Current verification status
 
-- Dev pages still assume simplified local workflow and need auth token UX updates.
-- CI pipeline is not yet wired to run Supabase test database + Playwright automatically.
-- Full tenant lifecycle tooling (org provisioning UX, invite flows) is still minimal.
-- Scenario and AI-practice runtime node execution is not yet implemented.
+- **Typecheck:** not passing in this environment (dependency install blocker).
+- **Integration tests:** not executable in this environment (dependency install blocker).
+- **E2E tests:** not executable in this environment (dependency install blocker).
+- **End-to-end verification:** **not yet proven in this environment** due registry/network policy preventing dependency installation.
+
+## External blockers
+
+- npm registry access policy returns `403 Forbidden` for required packages.
+- Until registry access is fixed (or an allowed internal mirror is configured), runnable verification cannot complete.
