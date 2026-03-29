@@ -1,0 +1,895 @@
+{
+  "courseId": "ecommerce-launchpad",
+  "inlineKnowledgeChecks": [
+    {
+      "lessonId": "m01-l01",
+      "question": "What is the core outcome of 'What E-Commerce Is and How the Business Model Works'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m01-l02",
+      "question": "What is the core outcome of 'Choosing the Right E-Commerce Model (DTC, Marketplace, Hybrid)'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m01-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m01-l03",
+      "question": "What is the core outcome of 'Build Your Starter Business Blueprint'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m02-l01",
+      "question": "What is the core outcome of 'Defining Your Niche and Problem Space'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m02-l02",
+      "question": "What is the core outcome of 'Competitive Mapping and Positioning Decisions'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m02-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m02-l03",
+      "question": "What is the core outcome of 'Build Your Customer Persona and Validation Worksheet'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m03-l01",
+      "question": "What is the core outcome of 'Offer Fundamentals (Value, Promise, Transformation)'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m03-l02",
+      "question": "What is the core outcome of 'Pricing Strategy and Margin Trade-Offs'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m03-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m03-l03",
+      "question": "What is the core outcome of 'Create Your Offer Stack and Profit Calculator'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m04-l01",
+      "question": "What is the core outcome of 'Store Structure and Conversion-Critical Pages'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m04-l02",
+      "question": "What is the core outcome of 'Product Page Frameworks and Trust Signals'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m04-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m04-l03",
+      "question": "What is the core outcome of 'Build Your Store Wireframe and QA Checklist'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m05-l01",
+      "question": "What is the core outcome of 'Sourcing Models, Vendors, and Fulfillment Basics'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m05-l02",
+      "question": "What is the core outcome of 'Inventory, Shipping, and Returns Policy Decisions'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m05-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m05-l03",
+      "question": "What is the core outcome of 'Build Your Operations SOP and Risk Checklist'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m06-l01",
+      "question": "What is the core outcome of 'Brand Foundations and Messaging Pillars'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m06-l02",
+      "question": "What is the core outcome of 'Content Formats and Channel Strategy'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m06-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m06-l03",
+      "question": "What is the core outcome of 'Build Your 30-Day Content Calendar and Asset Kit'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m07-l01",
+      "question": "What is the core outcome of 'SEO and Organic Discovery Fundamentals'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m07-l02",
+      "question": "What is the core outcome of 'Keyword Clusters and Content Prioritization'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m07-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m07-l03",
+      "question": "What is the core outcome of 'Build Your Organic Traffic Plan and Editorial Workflow'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m08-l01",
+      "question": "What is the core outcome of 'Paid Traffic Fundamentals and Funnel Math'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m08-l02",
+      "question": "What is the core outcome of 'Creative, Audience, and Budget Allocation Decisions'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m08-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m08-l03",
+      "question": "What is the core outcome of 'Build Your Campaign Launch Plan and Reporting Sheet'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m09-l01",
+      "question": "What is the core outcome of 'Lifecycle Journey Fundamentals'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m09-l02",
+      "question": "What is the core outcome of 'Segmenting Audiences and Automation Logic'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m09-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m09-l03",
+      "question": "What is the core outcome of 'Build Core Flows (Welcome, Cart, Post-Purchase)'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m10-l01",
+      "question": "What is the core outcome of 'Conversion Rate Optimization Fundamentals'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m10-l02",
+      "question": "What is the core outcome of 'Experiment Prioritization and Test Design'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m10-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m10-l03",
+      "question": "What is the core outcome of 'Build Your CRO Backlog and Retention Playbook'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m11-l01",
+      "question": "What is the core outcome of 'KPI Foundations and Measurement Hygiene'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m11-l02",
+      "question": "What is the core outcome of 'Interpreting Metrics and Making Decisions'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m11-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m11-l03",
+      "question": "What is the core outcome of 'Build Your Executive Dashboard and Weekly Review Cadence'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m12-l01",
+      "question": "What is the core outcome of 'Launch Architecture and Readiness Criteria'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m12-l02",
+      "question": "What is the core outcome of 'Risk Scenarios and Contingency Planning'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    },
+    {
+      "lessonId": "m12-l02",
+      "question": "Which factor should be prioritized first?",
+      "type": "short_answer",
+      "answerKey": "Start with customer/problem fit, then channel and cost constraints.",
+      "rationale": "Framework lessons prioritize ordering of decisions."
+    },
+    {
+      "lessonId": "m12-l03",
+      "question": "What is the core outcome of 'Build Your 90-Day Launch-to-Scale Action Plan'?",
+      "type": "mcq",
+      "choices": [
+        "Faster decision quality",
+        "Higher ad spend",
+        "More tools",
+        "Less measurement"
+      ],
+      "answer": "Faster decision quality",
+      "rationale": "The lesson is designed to improve decision and execution quality, not tool accumulation."
+    }
+  ],
+  "moduleRecapQuizzes": [
+    {
+      "moduleId": "m01",
+      "moduleTitle": "E-Commerce Foundations",
+      "questions": [
+        {
+          "question": "What is the most critical principle in E-Commerce Foundations?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m02",
+      "moduleTitle": "Market and Customer Intelligence",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Market and Customer Intelligence?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m03",
+      "moduleTitle": "Offer Design and Unit Economics",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Offer Design and Unit Economics?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m04",
+      "moduleTitle": "Storefront Architecture and UX",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Storefront Architecture and UX?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m05",
+      "moduleTitle": "Product Sourcing and Operations",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Product Sourcing and Operations?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m06",
+      "moduleTitle": "Brand Messaging and Content Engine",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Brand Messaging and Content Engine?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m07",
+      "moduleTitle": "Organic Acquisition (SEO + Social)",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Organic Acquisition (SEO + Social)?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m08",
+      "moduleTitle": "Paid Acquisition Systems",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Paid Acquisition Systems?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m09",
+      "moduleTitle": "Lifecycle Marketing (Email/SMS)",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Lifecycle Marketing (Email/SMS)?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m10",
+      "moduleTitle": "Conversion Optimization and Retention",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Conversion Optimization and Retention?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m11",
+      "moduleTitle": "Analytics, Finance, and Performance Dashboards",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Analytics, Finance, and Performance Dashboards?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    },
+    {
+      "moduleId": "m12",
+      "moduleTitle": "Launch Execution and Scale Plan",
+      "questions": [
+        {
+          "question": "What is the most critical principle in Launch Execution and Scale Plan?",
+          "choices": [
+            "Random testing",
+            "Structured decisions",
+            "Maximizing complexity",
+            "Ignoring constraints"
+          ],
+          "answer": "Structured decisions",
+          "rationale": "Module outcomes depend on structured, criteria-based decisions."
+        },
+        {
+          "question": "Which output proves module completion?",
+          "choices": [
+            "A finished template/checklist",
+            "A social post",
+            "A new app install",
+            "No artifact"
+          ],
+          "answer": "A finished template/checklist",
+          "rationale": "Each module ends with practical artifacts."
+        }
+      ]
+    }
+  ]
+}

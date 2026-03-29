@@ -1,0 +1,955 @@
+{
+  "courseId": "ecommerce-launchpad",
+  "title": "E-Commerce Launchpad",
+  "source": "content/course-source.md",
+  "modules": [
+    {
+      "moduleId": "m01",
+      "moduleTitle": "E-Commerce Foundations",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m01-l01",
+          "moduleTitle": "E-Commerce Foundations",
+          "lessonTitle": "What E-Commerce Is and How the Business Model Works",
+          "lessonObjective": "Apply what e-commerce is and how the business model works in the learner's store context.",
+          "lessonSummary": "Practical guidance on what e-commerce is and how the business model works with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m01-l02",
+          "moduleTitle": "E-Commerce Foundations",
+          "lessonTitle": "Choosing the Right E-Commerce Model (DTC, Marketplace, Hybrid)",
+          "lessonObjective": "Apply choosing the right e-commerce model (dtc, marketplace, hybrid) in the learner's store context.",
+          "lessonSummary": "Practical guidance on choosing the right e-commerce model (dtc, marketplace, hybrid) with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m01-l03",
+          "moduleTitle": "E-Commerce Foundations",
+          "lessonTitle": "Build Your Starter Business Blueprint",
+          "lessonObjective": "Apply build your starter business blueprint in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your starter business blueprint with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m02",
+      "moduleTitle": "Market and Customer Intelligence",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m02-l01",
+          "moduleTitle": "Market and Customer Intelligence",
+          "lessonTitle": "Defining Your Niche and Problem Space",
+          "lessonObjective": "Apply defining your niche and problem space in the learner's store context.",
+          "lessonSummary": "Practical guidance on defining your niche and problem space with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m02-l02",
+          "moduleTitle": "Market and Customer Intelligence",
+          "lessonTitle": "Competitive Mapping and Positioning Decisions",
+          "lessonObjective": "Apply competitive mapping and positioning decisions in the learner's store context.",
+          "lessonSummary": "Practical guidance on competitive mapping and positioning decisions with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m02-l03",
+          "moduleTitle": "Market and Customer Intelligence",
+          "lessonTitle": "Build Your Customer Persona and Validation Worksheet",
+          "lessonObjective": "Apply build your customer persona and validation worksheet in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your customer persona and validation worksheet with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m03",
+      "moduleTitle": "Offer Design and Unit Economics",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m03-l01",
+          "moduleTitle": "Offer Design and Unit Economics",
+          "lessonTitle": "Offer Fundamentals (Value, Promise, Transformation)",
+          "lessonObjective": "Apply offer fundamentals (value, promise, transformation) in the learner's store context.",
+          "lessonSummary": "Practical guidance on offer fundamentals (value, promise, transformation) with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m03-l02",
+          "moduleTitle": "Offer Design and Unit Economics",
+          "lessonTitle": "Pricing Strategy and Margin Trade-Offs",
+          "lessonObjective": "Apply pricing strategy and margin trade-offs in the learner's store context.",
+          "lessonSummary": "Practical guidance on pricing strategy and margin trade-offs with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m03-l03",
+          "moduleTitle": "Offer Design and Unit Economics",
+          "lessonTitle": "Create Your Offer Stack and Profit Calculator",
+          "lessonObjective": "Apply create your offer stack and profit calculator in the learner's store context.",
+          "lessonSummary": "Practical guidance on create your offer stack and profit calculator with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m04",
+      "moduleTitle": "Storefront Architecture and UX",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m04-l01",
+          "moduleTitle": "Storefront Architecture and UX",
+          "lessonTitle": "Store Structure and Conversion-Critical Pages",
+          "lessonObjective": "Apply store structure and conversion-critical pages in the learner's store context.",
+          "lessonSummary": "Practical guidance on store structure and conversion-critical pages with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m04-l02",
+          "moduleTitle": "Storefront Architecture and UX",
+          "lessonTitle": "Product Page Frameworks and Trust Signals",
+          "lessonObjective": "Apply product page frameworks and trust signals in the learner's store context.",
+          "lessonSummary": "Practical guidance on product page frameworks and trust signals with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m04-l03",
+          "moduleTitle": "Storefront Architecture and UX",
+          "lessonTitle": "Build Your Store Wireframe and QA Checklist",
+          "lessonObjective": "Apply build your store wireframe and qa checklist in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your store wireframe and qa checklist with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m05",
+      "moduleTitle": "Product Sourcing and Operations",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m05-l01",
+          "moduleTitle": "Product Sourcing and Operations",
+          "lessonTitle": "Sourcing Models, Vendors, and Fulfillment Basics",
+          "lessonObjective": "Apply sourcing models, vendors, and fulfillment basics in the learner's store context.",
+          "lessonSummary": "Practical guidance on sourcing models, vendors, and fulfillment basics with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m05-l02",
+          "moduleTitle": "Product Sourcing and Operations",
+          "lessonTitle": "Inventory, Shipping, and Returns Policy Decisions",
+          "lessonObjective": "Apply inventory, shipping, and returns policy decisions in the learner's store context.",
+          "lessonSummary": "Practical guidance on inventory, shipping, and returns policy decisions with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m05-l03",
+          "moduleTitle": "Product Sourcing and Operations",
+          "lessonTitle": "Build Your Operations SOP and Risk Checklist",
+          "lessonObjective": "Apply build your operations sop and risk checklist in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your operations sop and risk checklist with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m06",
+      "moduleTitle": "Brand Messaging and Content Engine",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m06-l01",
+          "moduleTitle": "Brand Messaging and Content Engine",
+          "lessonTitle": "Brand Foundations and Messaging Pillars",
+          "lessonObjective": "Apply brand foundations and messaging pillars in the learner's store context.",
+          "lessonSummary": "Practical guidance on brand foundations and messaging pillars with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m06-l02",
+          "moduleTitle": "Brand Messaging and Content Engine",
+          "lessonTitle": "Content Formats and Channel Strategy",
+          "lessonObjective": "Apply content formats and channel strategy in the learner's store context.",
+          "lessonSummary": "Practical guidance on content formats and channel strategy with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m06-l03",
+          "moduleTitle": "Brand Messaging and Content Engine",
+          "lessonTitle": "Build Your 30-Day Content Calendar and Asset Kit",
+          "lessonObjective": "Apply build your 30-day content calendar and asset kit in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your 30-day content calendar and asset kit with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m07",
+      "moduleTitle": "Organic Acquisition (SEO + Social)",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m07-l01",
+          "moduleTitle": "Organic Acquisition (SEO + Social)",
+          "lessonTitle": "SEO and Organic Discovery Fundamentals",
+          "lessonObjective": "Apply seo and organic discovery fundamentals in the learner's store context.",
+          "lessonSummary": "Practical guidance on seo and organic discovery fundamentals with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m07-l02",
+          "moduleTitle": "Organic Acquisition (SEO + Social)",
+          "lessonTitle": "Keyword Clusters and Content Prioritization",
+          "lessonObjective": "Apply keyword clusters and content prioritization in the learner's store context.",
+          "lessonSummary": "Practical guidance on keyword clusters and content prioritization with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m07-l03",
+          "moduleTitle": "Organic Acquisition (SEO + Social)",
+          "lessonTitle": "Build Your Organic Traffic Plan and Editorial Workflow",
+          "lessonObjective": "Apply build your organic traffic plan and editorial workflow in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your organic traffic plan and editorial workflow with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m08",
+      "moduleTitle": "Paid Acquisition Systems",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m08-l01",
+          "moduleTitle": "Paid Acquisition Systems",
+          "lessonTitle": "Paid Traffic Fundamentals and Funnel Math",
+          "lessonObjective": "Apply paid traffic fundamentals and funnel math in the learner's store context.",
+          "lessonSummary": "Practical guidance on paid traffic fundamentals and funnel math with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m08-l02",
+          "moduleTitle": "Paid Acquisition Systems",
+          "lessonTitle": "Creative, Audience, and Budget Allocation Decisions",
+          "lessonObjective": "Apply creative, audience, and budget allocation decisions in the learner's store context.",
+          "lessonSummary": "Practical guidance on creative, audience, and budget allocation decisions with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m08-l03",
+          "moduleTitle": "Paid Acquisition Systems",
+          "lessonTitle": "Build Your Campaign Launch Plan and Reporting Sheet",
+          "lessonObjective": "Apply build your campaign launch plan and reporting sheet in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your campaign launch plan and reporting sheet with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m09",
+      "moduleTitle": "Lifecycle Marketing (Email/SMS)",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m09-l01",
+          "moduleTitle": "Lifecycle Marketing (Email/SMS)",
+          "lessonTitle": "Lifecycle Journey Fundamentals",
+          "lessonObjective": "Apply lifecycle journey fundamentals in the learner's store context.",
+          "lessonSummary": "Practical guidance on lifecycle journey fundamentals with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m09-l02",
+          "moduleTitle": "Lifecycle Marketing (Email/SMS)",
+          "lessonTitle": "Segmenting Audiences and Automation Logic",
+          "lessonObjective": "Apply segmenting audiences and automation logic in the learner's store context.",
+          "lessonSummary": "Practical guidance on segmenting audiences and automation logic with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m09-l03",
+          "moduleTitle": "Lifecycle Marketing (Email/SMS)",
+          "lessonTitle": "Build Core Flows (Welcome, Cart, Post-Purchase)",
+          "lessonObjective": "Apply build core flows (welcome, cart, post-purchase) in the learner's store context.",
+          "lessonSummary": "Practical guidance on build core flows (welcome, cart, post-purchase) with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m10",
+      "moduleTitle": "Conversion Optimization and Retention",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m10-l01",
+          "moduleTitle": "Conversion Optimization and Retention",
+          "lessonTitle": "Conversion Rate Optimization Fundamentals",
+          "lessonObjective": "Apply conversion rate optimization fundamentals in the learner's store context.",
+          "lessonSummary": "Practical guidance on conversion rate optimization fundamentals with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m10-l02",
+          "moduleTitle": "Conversion Optimization and Retention",
+          "lessonTitle": "Experiment Prioritization and Test Design",
+          "lessonObjective": "Apply experiment prioritization and test design in the learner's store context.",
+          "lessonSummary": "Practical guidance on experiment prioritization and test design with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m10-l03",
+          "moduleTitle": "Conversion Optimization and Retention",
+          "lessonTitle": "Build Your CRO Backlog and Retention Playbook",
+          "lessonObjective": "Apply build your cro backlog and retention playbook in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your cro backlog and retention playbook with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m11",
+      "moduleTitle": "Analytics, Finance, and Performance Dashboards",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m11-l01",
+          "moduleTitle": "Analytics, Finance, and Performance Dashboards",
+          "lessonTitle": "KPI Foundations and Measurement Hygiene",
+          "lessonObjective": "Apply kpi foundations and measurement hygiene in the learner's store context.",
+          "lessonSummary": "Practical guidance on kpi foundations and measurement hygiene with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m11-l02",
+          "moduleTitle": "Analytics, Finance, and Performance Dashboards",
+          "lessonTitle": "Interpreting Metrics and Making Decisions",
+          "lessonObjective": "Apply interpreting metrics and making decisions in the learner's store context.",
+          "lessonSummary": "Practical guidance on interpreting metrics and making decisions with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m11-l03",
+          "moduleTitle": "Analytics, Finance, and Performance Dashboards",
+          "lessonTitle": "Build Your Executive Dashboard and Weekly Review Cadence",
+          "lessonObjective": "Apply build your executive dashboard and weekly review cadence in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your executive dashboard and weekly review cadence with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    },
+    {
+      "moduleId": "m12",
+      "moduleTitle": "Launch Execution and Scale Plan",
+      "recapQuizPlacement": "module_end",
+      "lessons": [
+        {
+          "lessonId": "m12-l01",
+          "moduleTitle": "Launch Execution and Scale Plan",
+          "lessonTitle": "Launch Architecture and Readiness Criteria",
+          "lessonObjective": "Apply launch architecture and readiness criteria in the learner's store context.",
+          "lessonSummary": "Practical guidance on launch architecture and readiness criteria with decisions and execution criteria.",
+          "lessonType": "concept",
+          "recommendedMediaType": "interactive_video",
+          "interactionTypes": [
+            "knowledge_check"
+          ],
+          "quizPlacement": "inline_only",
+          "reflectionPlacement": "none",
+          "scenarioPlacement": "none",
+          "aiPracticePlacement": "none",
+          "resourcePlacement": "summary cheat sheet",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m12-l02",
+          "moduleTitle": "Launch Execution and Scale Plan",
+          "lessonTitle": "Risk Scenarios and Contingency Planning",
+          "lessonObjective": "Apply risk scenarios and contingency planning in the learner's store context.",
+          "lessonSummary": "Practical guidance on risk scenarios and contingency planning with decisions and execution criteria.",
+          "lessonType": "framework",
+          "recommendedMediaType": "reading_plus_scenario",
+          "interactionTypes": [
+            "reflection",
+            "scenario"
+          ],
+          "quizPlacement": "end_of_lesson_short",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "mid_lesson tradeoff branch",
+          "aiPracticePlacement": "optional decision coach",
+          "resourcePlacement": "decision matrix template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        },
+        {
+          "lessonId": "m12-l03",
+          "moduleTitle": "Launch Execution and Scale Plan",
+          "lessonTitle": "Build Your 90-Day Launch-to-Scale Action Plan",
+          "lessonObjective": "Apply build your 90-day launch-to-scale action plan in the learner's store context.",
+          "lessonSummary": "Practical guidance on build your 90-day launch-to-scale action plan with decisions and execution criteria.",
+          "lessonType": "project",
+          "recommendedMediaType": "workshop_lab",
+          "interactionTypes": [
+            "worksheet",
+            "resource_download",
+            "ai_practice"
+          ],
+          "quizPlacement": "none_or_project_rubric",
+          "reflectionPlacement": "post-framework decision log",
+          "scenarioPlacement": "project risk branch",
+          "aiPracticePlacement": "required project critique",
+          "resourcePlacement": "primary worksheet/checklist template",
+          "completionCriteria": [
+            "View all required nodes",
+            "Submit required activity",
+            "Pass required check where present"
+          ],
+          "confidenceScore": 0.74
+        }
+      ]
+    }
+  ]
+}

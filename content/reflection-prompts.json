@@ -1,0 +1,125 @@
+{
+  "courseId": "ecommerce-launchpad",
+  "prompts": [
+    {
+      "lessonId": "m01-l02",
+      "prompt": "Which decision in 'Choosing the Right E-Commerce Model (DTC, Marketplace, Hybrid)' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m01-l03",
+      "prompt": "Which decision in 'Build Your Starter Business Blueprint' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m02-l02",
+      "prompt": "Which decision in 'Competitive Mapping and Positioning Decisions' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m02-l03",
+      "prompt": "Which decision in 'Build Your Customer Persona and Validation Worksheet' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m03-l02",
+      "prompt": "Which decision in 'Pricing Strategy and Margin Trade-Offs' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m03-l03",
+      "prompt": "Which decision in 'Create Your Offer Stack and Profit Calculator' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m04-l02",
+      "prompt": "Which decision in 'Product Page Frameworks and Trust Signals' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m04-l03",
+      "prompt": "Which decision in 'Build Your Store Wireframe and QA Checklist' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m05-l02",
+      "prompt": "Which decision in 'Inventory, Shipping, and Returns Policy Decisions' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m05-l03",
+      "prompt": "Which decision in 'Build Your Operations SOP and Risk Checklist' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m06-l02",
+      "prompt": "Which decision in 'Content Formats and Channel Strategy' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m06-l03",
+      "prompt": "Which decision in 'Build Your 30-Day Content Calendar and Asset Kit' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m07-l02",
+      "prompt": "Which decision in 'Keyword Clusters and Content Prioritization' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m07-l03",
+      "prompt": "Which decision in 'Build Your Organic Traffic Plan and Editorial Workflow' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m08-l02",
+      "prompt": "Which decision in 'Creative, Audience, and Budget Allocation Decisions' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m08-l03",
+      "prompt": "Which decision in 'Build Your Campaign Launch Plan and Reporting Sheet' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m09-l02",
+      "prompt": "Which decision in 'Segmenting Audiences and Automation Logic' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m09-l03",
+      "prompt": "Which decision in 'Build Core Flows (Welcome, Cart, Post-Purchase)' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m10-l02",
+      "prompt": "Which decision in 'Experiment Prioritization and Test Design' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m10-l03",
+      "prompt": "Which decision in 'Build Your CRO Backlog and Retention Playbook' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m11-l02",
+      "prompt": "Which decision in 'Interpreting Metrics and Making Decisions' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m11-l03",
+      "prompt": "Which decision in 'Build Your Executive Dashboard and Weekly Review Cadence' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m12-l02",
+      "prompt": "Which decision in 'Risk Scenarios and Contingency Planning' is highest risk for your business and why?",
+      "minWords": 120
+    },
+    {
+      "lessonId": "m12-l03",
+      "prompt": "Which decision in 'Build Your 90-Day Launch-to-Scale Action Plan' is highest risk for your business and why?",
+      "minWords": 120
+    }
+  ]
+}
