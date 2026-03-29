@@ -1,0 +1,293 @@
+{
+  "courseId": "ecommerce-launchpad",
+  "resourcePacks": [
+    {
+      "moduleId": "m01",
+      "moduleTitle": "E-Commerce Foundations",
+      "items": [
+        {
+          "lessonId": "m01-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your Starter Business Blueprint Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m01-l03",
+          "resourceType": "checklist",
+          "title": "Build Your Starter Business Blueprint QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m01-l03",
+          "resourceType": "tracker",
+          "title": "Build Your Starter Business Blueprint KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m02",
+      "moduleTitle": "Market and Customer Intelligence",
+      "items": [
+        {
+          "lessonId": "m02-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your Customer Persona and Validation Worksheet Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m02-l03",
+          "resourceType": "checklist",
+          "title": "Build Your Customer Persona and Validation Worksheet QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m02-l03",
+          "resourceType": "tracker",
+          "title": "Build Your Customer Persona and Validation Worksheet KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m03",
+      "moduleTitle": "Offer Design and Unit Economics",
+      "items": [
+        {
+          "lessonId": "m03-l03",
+          "resourceType": "worksheet",
+          "title": "Create Your Offer Stack and Profit Calculator Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m03-l03",
+          "resourceType": "checklist",
+          "title": "Create Your Offer Stack and Profit Calculator QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m03-l03",
+          "resourceType": "tracker",
+          "title": "Create Your Offer Stack and Profit Calculator KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m04",
+      "moduleTitle": "Storefront Architecture and UX",
+      "items": [
+        {
+          "lessonId": "m04-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your Store Wireframe and QA Checklist Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m04-l03",
+          "resourceType": "checklist",
+          "title": "Build Your Store Wireframe and QA Checklist QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m04-l03",
+          "resourceType": "tracker",
+          "title": "Build Your Store Wireframe and QA Checklist KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m05",
+      "moduleTitle": "Product Sourcing and Operations",
+      "items": [
+        {
+          "lessonId": "m05-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your Operations SOP and Risk Checklist Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m05-l03",
+          "resourceType": "checklist",
+          "title": "Build Your Operations SOP and Risk Checklist QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m05-l03",
+          "resourceType": "tracker",
+          "title": "Build Your Operations SOP and Risk Checklist KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m06",
+      "moduleTitle": "Brand Messaging and Content Engine",
+      "items": [
+        {
+          "lessonId": "m06-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your 30-Day Content Calendar and Asset Kit Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m06-l03",
+          "resourceType": "checklist",
+          "title": "Build Your 30-Day Content Calendar and Asset Kit QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m06-l03",
+          "resourceType": "tracker",
+          "title": "Build Your 30-Day Content Calendar and Asset Kit KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m07",
+      "moduleTitle": "Organic Acquisition (SEO + Social)",
+      "items": [
+        {
+          "lessonId": "m07-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your Organic Traffic Plan and Editorial Workflow Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m07-l03",
+          "resourceType": "checklist",
+          "title": "Build Your Organic Traffic Plan and Editorial Workflow QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m07-l03",
+          "resourceType": "tracker",
+          "title": "Build Your Organic Traffic Plan and Editorial Workflow KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m08",
+      "moduleTitle": "Paid Acquisition Systems",
+      "items": [
+        {
+          "lessonId": "m08-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your Campaign Launch Plan and Reporting Sheet Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m08-l03",
+          "resourceType": "checklist",
+          "title": "Build Your Campaign Launch Plan and Reporting Sheet QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m08-l03",
+          "resourceType": "tracker",
+          "title": "Build Your Campaign Launch Plan and Reporting Sheet KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m09",
+      "moduleTitle": "Lifecycle Marketing (Email/SMS)",
+      "items": [
+        {
+          "lessonId": "m09-l03",
+          "resourceType": "worksheet",
+          "title": "Build Core Flows (Welcome, Cart, Post-Purchase) Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m09-l03",
+          "resourceType": "checklist",
+          "title": "Build Core Flows (Welcome, Cart, Post-Purchase) QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m09-l03",
+          "resourceType": "tracker",
+          "title": "Build Core Flows (Welcome, Cart, Post-Purchase) KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m10",
+      "moduleTitle": "Conversion Optimization and Retention",
+      "items": [
+        {
+          "lessonId": "m10-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your CRO Backlog and Retention Playbook Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m10-l03",
+          "resourceType": "checklist",
+          "title": "Build Your CRO Backlog and Retention Playbook QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m10-l03",
+          "resourceType": "tracker",
+          "title": "Build Your CRO Backlog and Retention Playbook KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m11",
+      "moduleTitle": "Analytics, Finance, and Performance Dashboards",
+      "items": [
+        {
+          "lessonId": "m11-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your Executive Dashboard and Weekly Review Cadence Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m11-l03",
+          "resourceType": "checklist",
+          "title": "Build Your Executive Dashboard and Weekly Review Cadence QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m11-l03",
+          "resourceType": "tracker",
+          "title": "Build Your Executive Dashboard and Weekly Review Cadence KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    },
+    {
+      "moduleId": "m12",
+      "moduleTitle": "Launch Execution and Scale Plan",
+      "items": [
+        {
+          "lessonId": "m12-l03",
+          "resourceType": "worksheet",
+          "title": "Build Your 90-Day Launch-to-Scale Action Plan Worksheet",
+          "purpose": "Guided implementation with fillable fields."
+        },
+        {
+          "lessonId": "m12-l03",
+          "resourceType": "checklist",
+          "title": "Build Your 90-Day Launch-to-Scale Action Plan QA Checklist",
+          "purpose": "Pre-launch and post-launch validation."
+        },
+        {
+          "lessonId": "m12-l03",
+          "resourceType": "tracker",
+          "title": "Build Your 90-Day Launch-to-Scale Action Plan KPI Tracker",
+          "purpose": "Weekly KPI monitoring and decision logging."
+        }
+      ]
+    }
+  ]
+}

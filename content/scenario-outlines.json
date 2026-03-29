@@ -1,0 +1,197 @@
+{
+  "courseId": "ecommerce-launchpad",
+  "scenarios": [
+    {
+      "scenarioId": "scn-m01-l02",
+      "lessonId": "m01-l02",
+      "decisionContext": "You must choose an approach for choosing the right e-commerce model (dtc, marketplace, hybrid) under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m02-l02",
+      "lessonId": "m02-l02",
+      "decisionContext": "You must choose an approach for competitive mapping and positioning decisions under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m03-l02",
+      "lessonId": "m03-l02",
+      "decisionContext": "You must choose an approach for pricing strategy and margin trade-offs under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m04-l02",
+      "lessonId": "m04-l02",
+      "decisionContext": "You must choose an approach for product page frameworks and trust signals under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m05-l02",
+      "lessonId": "m05-l02",
+      "decisionContext": "You must choose an approach for inventory, shipping, and returns policy decisions under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m06-l02",
+      "lessonId": "m06-l02",
+      "decisionContext": "You must choose an approach for content formats and channel strategy under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m07-l02",
+      "lessonId": "m07-l02",
+      "decisionContext": "You must choose an approach for keyword clusters and content prioritization under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m08-l02",
+      "lessonId": "m08-l02",
+      "decisionContext": "You must choose an approach for creative, audience, and budget allocation decisions under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m09-l02",
+      "lessonId": "m09-l02",
+      "decisionContext": "You must choose an approach for segmenting audiences and automation logic under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m10-l02",
+      "lessonId": "m10-l02",
+      "decisionContext": "You must choose an approach for experiment prioritization and test design under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m11-l02",
+      "lessonId": "m11-l02",
+      "decisionContext": "You must choose an approach for interpreting metrics and making decisions under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    },
+    {
+      "scenarioId": "scn-m12-l02",
+      "lessonId": "m12-l02",
+      "decisionContext": "You must choose an approach for risk scenarios and contingency planning under budget and time limits.",
+      "choices": [
+        "Prioritize speed-to-launch",
+        "Prioritize margin stability",
+        "Prioritize brand control"
+      ],
+      "likelyConsequences": {
+        "Prioritize speed-to-launch": "Faster shipping, higher rework risk.",
+        "Prioritize margin stability": "Healthier economics, slower growth.",
+        "Prioritize brand control": "Stronger long-term moat, higher upfront cost."
+      },
+      "feedbackLogic": "Evaluate fit against learner constraints, flag mismatch risks, and propose mitigation steps."
+    }
+  ]
+}

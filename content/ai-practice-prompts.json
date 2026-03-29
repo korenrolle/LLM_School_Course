@@ -1,0 +1,461 @@
+{
+  "courseId": "ecommerce-launchpad",
+  "activities": [
+    {
+      "activityId": "ai-m01-l02",
+      "lessonId": "m01-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for choosing the right e-commerce model (dtc, marketplace, hybrid) and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m01-l03",
+      "lessonId": "m01-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your starter business blueprint and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m02-l02",
+      "lessonId": "m02-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for competitive mapping and positioning decisions and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m02-l03",
+      "lessonId": "m02-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your customer persona and validation worksheet and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m03-l02",
+      "lessonId": "m03-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for pricing strategy and margin trade-offs and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m03-l03",
+      "lessonId": "m03-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for create your offer stack and profit calculator and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m04-l02",
+      "lessonId": "m04-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for product page frameworks and trust signals and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m04-l03",
+      "lessonId": "m04-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your store wireframe and qa checklist and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m05-l02",
+      "lessonId": "m05-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for inventory, shipping, and returns policy decisions and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m05-l03",
+      "lessonId": "m05-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your operations sop and risk checklist and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m06-l02",
+      "lessonId": "m06-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for content formats and channel strategy and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m06-l03",
+      "lessonId": "m06-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your 30-day content calendar and asset kit and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m07-l02",
+      "lessonId": "m07-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for keyword clusters and content prioritization and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m07-l03",
+      "lessonId": "m07-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your organic traffic plan and editorial workflow and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m08-l02",
+      "lessonId": "m08-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for creative, audience, and budget allocation decisions and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m08-l03",
+      "lessonId": "m08-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your campaign launch plan and reporting sheet and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m09-l02",
+      "lessonId": "m09-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for segmenting audiences and automation logic and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m09-l03",
+      "lessonId": "m09-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build core flows (welcome, cart, post-purchase) and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m10-l02",
+      "lessonId": "m10-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for experiment prioritization and test design and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m10-l03",
+      "lessonId": "m10-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your cro backlog and retention playbook and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m11-l02",
+      "lessonId": "m11-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for interpreting metrics and making decisions and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m11-l03",
+      "lessonId": "m11-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your executive dashboard and weekly review cadence and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m12-l02",
+      "lessonId": "m12-l02",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for risk scenarios and contingency planning and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    },
+    {
+      "activityId": "ai-m12-l03",
+      "lessonId": "m12-l03",
+      "role": "E-commerce coach",
+      "studentTask": "Submit your plan for build your 90-day launch-to-scale action plan and request critique.",
+      "feedbackRubric": [
+        "Strategic fit",
+        "Execution feasibility",
+        "Metric clarity",
+        "Risk mitigation"
+      ],
+      "aiEvaluates": [
+        "assumptions",
+        "tradeoff awareness",
+        "KPI alignment",
+        "next action quality"
+      ],
+      "goodPerformanceLooksLike": "Clear rationale, realistic constraints, measurable milestones, and contingency plan."
+    }
+  ]
+}
