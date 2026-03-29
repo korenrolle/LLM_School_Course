@@ -55,20 +55,49 @@ Create `.env.local`:
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+E2E_BASE_URL=http://127.0.0.1:3000
+E2E_ORG_ID=11111111-1111-1111-1111-111111111111
 ```
 
-> Note: the current vertical slice runs with in-memory repositories for local proof-of-flow. Supabase env vars are included for transition readiness.
+> Note: The runtime uses Supabase-backed repositories and authenticated API requests; bearer access tokens are required for protected endpoints.
 
 ## Database Assets
 - Migration: `db/migrations/001_foundational_schema.sql`
+- Migration: `db/migrations/002_auth_rls.sql`
 - Seed SQL: `db/seeds/001_vertical_slice_seed.sql`
+- Seed SQL: `db/seeds/002_test_users.sql`
+
+Run migrations/seeds in Supabase SQL editor (in order).
+
+## Automated Testing
+### Service and integration tests
+```bash
+npm run test
+```
+
+### End-to-end tests (Playwright)
+1. Start app:
+```bash
+npm run dev
+```
+2. In another terminal:
+```bash
+npm run test:e2e
+```
+
+E2E coverage includes:
+- sign up / sign in / sign out
+- protected endpoint denial when unauthenticated
+- draft seed and role-based review/approve/publish
+- learner runtime access and progress update
+- unauthorized permission denial checks
 
 ## Core Folder Structure
 ```text
 app/                # Next.js App Router pages and API routes
 components/         # Shared UI/runtime components
 lib/                # Services, repositories, utilities
-  repositories/     # Data access adapters (in-memory for v1 slice)
+  repositories/     # Supabase-backed data access adapters
   services/         # Authoring/review/publish/runtime workflows
 db/                 # SQL migrations and seed files
 types/              # TypeScript domain contracts
@@ -85,7 +114,6 @@ Implemented in code:
 - Dev pages to exercise end-to-end lifecycle.
 
 Not yet implemented:
-- Full Supabase persistence + RLS policies.
 - Full no-code visual authoring UI.
 - Advanced scenario and AI-practice runtime nodes (content plans prepared).
 - Commerce and affiliate systems.

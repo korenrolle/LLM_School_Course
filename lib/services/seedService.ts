@@ -1,37 +1,43 @@
-import { db, id } from '@/lib/repositories/inMemoryStore';
-import type { Course, CourseVersion, LessonDraft, LessonNodeDraft, ModuleDraft } from '@/types/domain';
+import type { SupabaseClient } from '@supabase/supabase-js';
 
 export const seedService = {
-  seedExampleData() {
-    if (db.courses.size > 0) return { seeded: false, reason: 'already_seeded' };
+  async seedExampleData(client: SupabaseClient, orgId: string, authorId: string) {
+    const { data: existing } = await client.from('course').select('id').eq('slug', 'product-architecture-101').maybeSingle();
+    if (existing) return { seeded: false, reason: 'already_seeded', courseId: existing.id };
 
-    const course: Course = {
-      id: id(),
+    const { data: course, error: courseErr } = await client.from('course').insert({
       slug: 'product-architecture-101',
       title: 'Product Architecture 101',
       summary: 'Vertical slice seed course',
-    };
-    const version: CourseVersion = { id: id(), courseId: course.id, versionNo: 1, status: 'draft' };
-    const module: ModuleDraft = { id: id(), courseVersionId: version.id, title: 'Core Foundations', orderIndex: 1 };
+      org_id: orgId,
+      created_by: authorId,
+    }).select('id').single();
+    if (courseErr) throw courseErr;
 
-    const lesson1: LessonDraft = { id: id(), moduleId: module.id, title: 'What is an LXP?', slug: 'what-is-lxp', orderIndex: 1, completionRule: { minRequiredNodes: 2 } };
-    const lesson2: LessonDraft = { id: id(), moduleId: module.id, title: 'Publish Lifecycle', slug: 'publish-lifecycle', orderIndex: 2, completionRule: { minRequiredNodes: 2 } };
-    const lesson3: LessonDraft = { id: id(), moduleId: module.id, title: 'Assessment Basics', slug: 'assessment-basics', orderIndex: 3, completionRule: { minRequiredNodes: 2 } };
+    const { data: version, error: versionErr } = await client.from('course_version').insert({ course_id: course.id, version_no: 1, status: 'draft' }).select('id').single();
+    if (versionErr) throw versionErr;
 
-    const nodes: LessonNodeDraft[] = [
-      { id: id(), lessonId: lesson1.id, nodeType: 'reading', orderIndex: 1, required: true, config: { markdown: '## LXP\nA multi-layer learning platform.' } },
-      { id: id(), lessonId: lesson1.id, nodeType: 'video', orderIndex: 2, required: true, config: { videoUrl: 'https://example.com/video.mp4', durationSec: 180 } },
-      { id: id(), lessonId: lesson2.id, nodeType: 'reflection', orderIndex: 1, required: true, config: { prompt: 'Why separate draft and runtime?', minChars: 20 } },
-      { id: id(), lessonId: lesson2.id, nodeType: 'resource', orderIndex: 2, required: false, config: { label: 'Lifecycle Checklist', url: 'https://example.com/checklist.pdf' } },
-      { id: id(), lessonId: lesson3.id, nodeType: 'quiz', orderIndex: 1, required: true, config: { passScore: 70, questions: [{ key: 'q1', prompt: 'Published artifacts should be?', choices: ['Mutable', 'Immutable'], answerIndex: 1 }] } },
-      { id: id(), lessonId: lesson3.id, nodeType: 'reading', orderIndex: 2, required: true, config: { markdown: 'Use events for measurable learning outcomes.' } },
-    ];
+    const { data: module, error: moduleErr } = await client.from('module_draft').insert({ course_version_id: version.id, title: 'Core Foundations', order_index: 1 }).select('id').single();
+    if (moduleErr) throw moduleErr;
 
-    db.courses.set(course.id, course);
-    db.versions.set(version.id, version);
-    db.modules.set(module.id, module);
-    [lesson1, lesson2, lesson3].forEach((l) => db.lessons.set(l.id, l));
-    nodes.forEach((n) => db.nodes.set(n.id, n));
+    const lessons = await client.from('lesson_draft').insert([
+      { module_draft_id: module.id, title: 'What is an LXP?', slug: 'what-is-lxp', order_index: 1, completion_rule_json: { minRequiredNodes: 2 } },
+      { module_draft_id: module.id, title: 'Publish Lifecycle', slug: 'publish-lifecycle', order_index: 2, completion_rule_json: { minRequiredNodes: 2 } },
+      { module_draft_id: module.id, title: 'Assessment Basics', slug: 'assessment-basics', order_index: 3, completion_rule_json: { minRequiredNodes: 2 } },
+    ]).select('id, slug');
+    if (lessons.error || !lessons.data) throw lessons.error;
+
+    const get = (slug: string) => lessons.data!.find((l) => l.slug === slug)!.id;
+
+    const { error: nodesErr } = await client.from('lesson_node_draft').insert([
+      { lesson_draft_id: get('what-is-lxp'), node_type: 'reading', order_index: 1, required: true, config_json: { markdown: '## LXP\nA multi-layer learning platform.' } },
+      { lesson_draft_id: get('what-is-lxp'), node_type: 'video', order_index: 2, required: true, config_json: { videoUrl: 'https://example.com/video.mp4', durationSec: 180 } },
+      { lesson_draft_id: get('publish-lifecycle'), node_type: 'reflection', order_index: 1, required: true, config_json: { prompt: 'Why separate draft and runtime?', minChars: 20 } },
+      { lesson_draft_id: get('publish-lifecycle'), node_type: 'resource', order_index: 2, required: false, config_json: { label: 'Lifecycle Checklist', url: 'https://example.com/checklist.pdf' } },
+      { lesson_draft_id: get('assessment-basics'), node_type: 'quiz', order_index: 1, required: true, config_json: { passScore: 70, questions: [{ key: 'q1', prompt: 'Published artifacts should be?', choices: ['Mutable', 'Immutable'], answerIndex: 1 }] } },
+      { lesson_draft_id: get('assessment-basics'), node_type: 'reading', order_index: 2, required: true, config_json: { markdown: 'Use events for measurable learning outcomes.' } },
+    ]);
+    if (nodesErr) throw nodesErr;
 
     return { seeded: true, courseId: course.id, courseVersionId: version.id };
   },
